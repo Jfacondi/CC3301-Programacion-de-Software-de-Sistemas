@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1684605624 source:/home/pss/Escritorio/t4/consultar.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	"pss.h"
+
+1682715149 /home/pss/Escritorio/t4/pss.h
+
+1682715149 source:/home/pss/Escritorio/t4/pss.c
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"pss.h"
+
